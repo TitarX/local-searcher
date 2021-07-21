@@ -32,4 +32,3 @@ dist/
 nbdist/
 .nb-gradle/
 configs
-manifest.mf
